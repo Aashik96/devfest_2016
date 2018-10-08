@@ -598,6 +598,8 @@ p{
   font-size: 25px !important;
   line-height: 1;
   border-radius: 0 !important;
+   position:relative;
+    right: 120px;
  }
  .get-register .blue-border .conference-register{
   padding-left: 100px;
@@ -607,6 +609,13 @@ p{
   border-top: dashed 2px #1e88e5;
  }
 
+ .ticketsBorder{
+    position: relative;
+ }
+ .btnRegister{
+    position: absolute;
+    right: 150px;
+ }
 /*======================================footer-style-start================================================*/
  .footer{
   height: 8vh;

@@ -428,6 +428,13 @@ Main Components
     text-align: right;
     padding-right: 1%;
   }
+  .blue-border{
+    position: relative;
+  }
+  .codelab-register-button{
+    position: absolute;
+    right: 150px;
+  }
 @media only screen and (max-width: 990px) {
   .get-register .blue-border .register  h3,
   .get-register .blue-border .register  h4,
@@ -1108,6 +1115,8 @@ Main Components
   .get-register .blue-border .codelab-register-button{
     padding-left: 0;
     height: 132px;
+    position: absolute;
+    right: 200px;
   }
   .get-register .blue-border .conference-register{
    padding-left: 0;

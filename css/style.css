@@ -433,7 +433,7 @@ Main Components
   }
   .codelab-register-button{
     position: absolute;
-    right: 150px;
+    right: 140px;
   }
 @media only screen and (max-width: 990px) {
   .get-register .blue-border .register  h3,
